@@ -1,10 +1,10 @@
-# Pre-work - *Memory Game*
+ *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
 Submitted by: **Naomy chepngeno chesengeny**
 
-Time spent: **9** hours spent in total
+
 
 Link to project: (https://open-colorful-aardwolf.glitch.me)
 
