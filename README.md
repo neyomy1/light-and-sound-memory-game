@@ -8,9 +8,9 @@ Submitted by: **Naomy chepngeno chesengeny**
 
 Link to project: (https://open-colorful-aardwolf.glitch.me)
 
-## Required Functionality
+##  Functionality
 
-The following **required** functionality is complete:
+
 
 * [x ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [ x] "Start" button toggles between "Start" and "Stop" when clicked.
